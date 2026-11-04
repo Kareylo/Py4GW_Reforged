@@ -970,6 +970,7 @@ class ModelID(IntEnum):
     Belt_Pouch_Reward = 33
     Belt_Pouch = 34
     Berserker_Horn = 27046
+    Birds_Eye_Compass = 38614
     Birthday_Cupcake = 22269
     Birthday_Present = 37798
     Bison_Championship_Token = 27563
@@ -1355,6 +1356,7 @@ class ModelID(IntEnum):
     Imperial_Guard_Requisition_Order = 29108
     Imperial_Guard_Summon = 30210
     Incubus_Wing = 27034
+    Infinite_Birds_Eye_Compass = 38616
     Inscribed_Secret = 19196
     Inscribed_Shard = 1587
     Inscriptions_All = 15542
