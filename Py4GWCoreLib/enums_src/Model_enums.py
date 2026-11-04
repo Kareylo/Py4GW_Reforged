@@ -1357,6 +1357,7 @@ class ModelID(IntEnum):
     Imperial_Guard_Summon = 30210
     Incubus_Wing = 27034
     Infinite_Birds_Eye_Compass = 38616
+    Infinite_Stalkers_Ration = 38615
     Inscribed_Secret = 19196
     Inscribed_Shard = 1587
     Inscriptions_All = 15542
@@ -1694,6 +1695,7 @@ class ModelID(IntEnum):
     Squash_Serum = 6369
     Staff_Head = 896
     Staff_Wrapping = 908
+    Stalkers_Ration = 38613
     Star_Of_Transference = 25896
     Steel_Ingot = 949
     Steel_Key = 5967
